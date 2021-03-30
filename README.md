@@ -4,7 +4,7 @@ This app has been deployed to GCP.
 Open[https://resonatecontactapp.ts.r.appspot.com] to view it online.
 
 Or in the directory you can run:
-
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
