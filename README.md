@@ -1,14 +1,15 @@
-# resonateCode
-For code test
+## App deployment
 
+This app has been deployed to GCP.
+Open[https://resonatecontactapp.ts.r.appspot.com] to view it online.
 
-# The first case 
+Or in the directory you can run:
 
-This can be checked by straightly open the index.html file with browser
+### `npm start`
 
-# The second case(Contact) 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-This application has been deployed to GCP which the URL is https://resonatecontactapp.ts.r.appspot.com.
-Or you can also open the directory and run:
-### npm start
-to see in a development mode
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
