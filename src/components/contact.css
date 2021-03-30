@@ -1,0 +1,36 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.body_deskPC{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.deskPC_block{
+    border: 1px solid black;
+    box-shadow: 1vh 1vh 1vh 0;
+    padding: 2%;
+    margin: 2% 2%;
+    width: 50vh;
+}
+.body_mobile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+.mobile_block{
+    border: 1px solid black;
+    box-shadow: 1vh 1vh 1vh 0;
+    padding: 2%;
+    margin: 2% 2%;
+    width: 90%;
+}
+.item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
